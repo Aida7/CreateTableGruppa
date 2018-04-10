@@ -1,0 +1,6 @@
+c:\users\садыковаа\documents\visual studio 2017\Projects\CreateTable\CreateTable\bin\Debug\CreateTable.exe.config
+c:\users\садыковаа\documents\visual studio 2017\Projects\CreateTable\CreateTable\bin\Debug\CreateTable.exe
+c:\users\садыковаа\documents\visual studio 2017\Projects\CreateTable\CreateTable\bin\Debug\CreateTable.pdb
+c:\users\садыковаа\documents\visual studio 2017\Projects\CreateTable\CreateTable\obj\Debug\CreateTable.csprojResolveAssemblyReference.cache
+c:\users\садыковаа\documents\visual studio 2017\Projects\CreateTable\CreateTable\obj\Debug\CreateTable.exe
+c:\users\садыковаа\documents\visual studio 2017\Projects\CreateTable\CreateTable\obj\Debug\CreateTable.pdb
